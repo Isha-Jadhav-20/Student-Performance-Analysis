@@ -284,7 +284,7 @@ Student-Performance-Analysis/
 ├── requirements.txt
 ├── README.md
 └──.gitignore
-
+```
 ## 👩‍💻 Author
 
-**Isha Namdev Jadhav**
+**Isha Jadhav**
