@@ -1,0 +1,36 @@
+STUDENT PERFORMANCE - BUSINESS INSIGHTS
+==================================================
+
+Total Students: 395
+Average Marks: 10.68
+Highest Marks: 19.33
+Lowest Marks: 1.33
+Pass Percentage: 67.09%
+Fail Percentage: 32.91%
+Average Absences: 5.71
+Average Study Time: 2.04
+
+Gender-wise Average Marks:
+sex
+F    10.32
+M    11.07
+
+Average Marks by Study Hours:
+Study_Hours_Category
+2-5 Hours     10.44
+5-10 Hours    11.65
+<2 Hours      10.25
+>10 Hours     11.73
+
+Top 10 Students:
+ Student_ID  Total_Marks  Average_Marks Result
+         48           58          19.33   Pass
+        375           56          18.67   Pass
+        111           56          18.67   Pass
+        114           56          18.67   Pass
+         43           55          18.33   Pass
+        287           55          18.33   Pass
+        246           54          18.00   Pass
+        294           54          18.00   Pass
+        130           54          18.00   Pass
+        199           54          18.00   Pass
