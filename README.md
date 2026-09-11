@@ -97,6 +97,7 @@ Business Insights
 Automatic Report Generation
      ↓
 Power BI Dashboard
+```
 
 ## 🗄️ SQL Analysis
 
